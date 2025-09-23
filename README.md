@@ -1,4 +1,5 @@
 🔥 Projeto INF1032- 3WA-08 – Análise de Queimadas no Brasil
+
 📌 Descrição
 
 Este projeto tem como objetivo analisar dados de queimadas no Brasil a partir de bases públicas, buscando identificar padrões espaciais e temporais, fatores associados e possíveis estratégias de prevenção.
