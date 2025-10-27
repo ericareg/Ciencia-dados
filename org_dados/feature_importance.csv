@@ -1,0 +1,164 @@
+feature,importance
+municipio_nome_RONDONÓPOLIS,0.04581301
+municipio_nome_VÁRZEA GRANDE,0.03745438
+municipio_nome_CUIABÁ,0.03054565
+municipio_nome_ARIPUANÃ,0.022264633
+doy_cos,0.022050621
+municipio_nome_SANTA TEREZINHA,0.0214539
+doy_sin,0.020969797
+municipio_nome_NOVA OLÍMPIA,0.020352077
+municipio_nome_ALTA FLORESTA,0.02034847
+municipio_nome_PONTE BRANCA,0.01993033
+hour_sin,0.019261038
+municipio_nome_GUARANTÃ DO NORTE,0.019124554
+municipio_nome_CÁCERES,0.018743688
+municipio_nome_PRIMAVERA DO LESTE,0.018525641
+municipio_nome_LUCAS DO RIO VERDE,0.017120969
+month_sin,0.016707752
+pm25_ugm3,0.015772954
+vento_direcao_grau,0.015238744
+dow_sin,0.015165094
+temperatura_c,0.014926716
+municipio_nome_LUCIARA,0.014456029
+month_cos,0.01399995
+no2_ppb,0.013616628
+municipio_nome_BARRA DO BUGRES,0.013496483
+municipio_nome_SANTO ANTÔNIO DO LEVERGER,0.013352468
+municipio_nome_NOVA MARILÂNDIA,0.013185416
+co_ppb,0.013032013
+vento_velocidade_ms,0.01290138
+municipio_nome_CANARANA,0.012892664
+dt_is_weekend,0.012842992
+so2_ugm3,0.0128177805
+municipio_nome_UNIÃO DO SUL,0.012804582
+umidade_relativa_percentual,0.0128035555
+municipio_nome_PONTES E LACERDA,0.012701444
+o3_ppb,0.012506131
+municipio_nome_SÃO FÉLIX DO ARAGUAIA,0.012318831
+municipio_nome_PEDRA PRETA,0.012102367
+municipio_nome_ITAÚBA,0.012010736
+hour_cos,0.011984416
+dow_cos,0.011980487
+municipio_nome_APIACÁS,0.01196672
+municipio_nome_NOVA BANDEIRANTES,0.011948762
+municipio_nome_COLNIZA,0.011105262
+municipio_nome_ALTO PARAGUAI,0.010721573
+municipio_nome_CHAPADA DOS GUIMARÃES,0.0106644705
+latitude,0.010408155
+longitude,0.010340834
+municipio_nome_COMODORO,0.009871612
+municipio_nome_NOBRES,0.009122112
+municipio_nome_SINOP,0.008942138
+municipio_nome_JURUENA,0.008749987
+municipio_nome_NOVO SANTO ANTÔNIO,0.008711095
+municipio_nome_SÃO JOSÉ DO RIO CLARO,0.008362417
+municipio_nome_BRASNORTE,0.008159922
+municipio_nome_VILA BELA DA SANTÍSSIMA TRINDADE,0.008008187
+municipio_nome_JUÍNA,0.007902309
+municipio_nome_SORRISO,0.0078449985
+municipio_nome_MIRASSOL D'OESTE,0.007790758
+municipio_nome_RIBEIRÃO CASCALHEIRA,0.0076079164
+municipio_nome_QUERÊNCIA,0.0075874655
+municipio_nome_JUARA,0.0074906293
+municipio_nome_SANTA CARMEM,0.007356523
+municipio_nome_DIAMANTINO,0.0067897527
+municipio_nome_POCONÉ,0.0066738552
+municipio_nome_ALTO TAQUARI,0.0065967585
+municipio_nome_COLÍDER,0.006307651
+municipio_nome_MARCELÂNDIA,0.0059139733
+municipio_nome_GAÚCHA DO NORTE,0.005231721
+municipio_nome_CARLINDA,0.0049073542
+municipio_nome_ITIQUIRA,0.004379558
+municipio_nome_COTRIGUAÇU,0.004370519
+municipio_nome_COCALINHO,0.0042412877
+municipio_nome_NOVO MUNDO,0.0041351314
+municipio_nome_SÃO JOSÉ DO XINGU,0.0038884943
+municipio_nome_CAMPO NOVO DO PARECIS,0.0037334985
+municipio_nome_VILA RICA,0.0037160006
+municipio_nome_ALTO GARÇAS,0.0035208773
+municipio_nome_BARÃO DE MELGAÇO,0.0033995504
+municipio_nome_ITANHANGÁ,0.0031192305
+municipio_nome_PARANAÍTA,0.0029718645
+municipio_nome_TANGARÁ DA SERRA,0.0025781896
+municipio_nome_NOVA SANTA HELENA,0.0021611538
+municipio_nome_PORTO ALEGRE DO NORTE,0.0021013187
+municipio_nome_NOVA MARINGÁ,0.0020499893
+municipio_nome_NOVA MONTE VERDE,0.001711926
+precipitacao_mmdia,0.0014971859
+municipio_nome_NOVA LACERDA,0.0014564128
+municipio_nome_PEIXOTO DE AZEVEDO,0.0014543679
+municipio_nome_PORTO DOS GAÚCHOS,0.00135876
+municipio_nome_RONDOLÂNDIA,0.0010862848
+municipio_nome_POXORÉU,0.0010839265
+municipio_nome_ÁGUA BOA,0.00108004
+municipio_nome_NOVA NAZARÉ,0.0008850797
+municipio_nome_NOVA CANAÃ DO NORTE,0.0007415247
+municipio_nome_SALTO DO CÉU,0.0005482792
+municipio_nome_NOVO HORIZONTE DO NORTE,0.0005420498
+municipio_nome_VERA,0.0005301231
+municipio_nome_FELIZ NATAL,0.0005004571
+municipio_nome_CAMPOS DE JÚLIO,0.00046242427
+municipio_nome_PARANATINGA,0.00044661103
+municipio_nome_PORTO ESPERIDIÃO,0.00033172412
+municipio_nome_ALTO BOA VISTA,0.000312448
+municipio_nome_ACORIZAL,0.00029502128
+municipio_nome_ALTO ARAGUAIA,0.00025733377
+municipio_nome_MATUPÁ,0.00015504264
+municipio_nome_NOSSA SENHORA DO LIVRAMENTO,9.745997e-05
+municipio_nome_ARAGUAINHA,4.5628945e-05
+municipio_nome_CANABRAVA DO NORTE,3.2487842e-05
+municipio_nome_CONFRESA,3.1304677e-05
+municipio_nome_BARRA DO GARÇAS,2.4208075e-05
+municipio_nome_NOVO SÃO JOAQUIM,3.9566585e-06
+municipio_nome_ARAGUAIANA,0.0
+municipio_nome_CURVELÂNDIA,0.0
+municipio_nome_SANTO ANTÔNIO DO LESTE,0.0
+municipio_nome_GENERAL CARNEIRO,0.0
+municipio_nome_SAPEZAL,0.0
+municipio_nome_SERRA NOVA DOURADA,0.0
+municipio_nome_FIGUEIRÓPOLIS D'OESTE,0.0
+municipio_nome_SANTA RITA DO TRIVELATO,0.0
+municipio_nome_SANTO AFONSO,0.0
+uf_nome_MATO GROSSO,0.0
+municipio_nome_SÃO JOSÉ DO POVO,0.0
+municipio_nome_VALE DE SÃO DOMINGOS,0.0
+municipio_nome_DOM AQUINO,0.0
+municipio_nome_SÃO JOSÉ DOS QUATRO MARCOS,0.0
+municipio_nome_SÃO PEDRO DA CIPA,0.0
+municipio_nome_SANTA CRUZ DO XINGU,0.0
+municipio_nome_DENISE,0.0
+municipio_nome_TAPURAH,0.0
+municipio_nome_TERRA NOVA DO NORTE,0.0
+municipio_nome_TESOURO,0.0
+municipio_nome_TORIXORÉU,0.0
+municipio_nome_TABAPORÃ,0.0
+municipio_nome_NOVA BRASILÂNDIA,0.0
+municipio_nome_GLÓRIA D'OESTE,0.0
+municipio_nome_PLANALTO DA SERRA,0.0
+municipio_nome_NOVA GUARITA,0.0
+municipio_nome_CAMPO VERDE,0.0
+municipio_nome_NORTELÂNDIA,0.0
+municipio_nome_NOVA MUTUM,0.0
+municipio_nome_CAMPINÁPOLIS,0.0
+municipio_nome_NOVA UBIRATÃ,0.0
+municipio_nome_NOVA XAVANTINA,0.0
+municipio_nome_BOM JESUS DO ARAGUAIA,0.0
+municipio_nome_CONQUISTA D'OESTE,0.0
+municipio_nome_LAMBARI D'OESTE,0.0
+municipio_nome_CASTANHEIRA,0.0
+municipio_nome_JUSCIMEIRA,0.0
+municipio_nome_CLÁUDIA,0.0
+municipio_nome_ROSÁRIO OESTE,0.0
+municipio_nome_PONTAL DO ARAGUAIA,0.0
+municipio_nome_ARENÁPOLIS,0.0
+municipio_nome_JAURU,0.0
+municipio_nome_JANGADA,0.0
+municipio_nome_PORTO ESTRELA,0.0
+municipio_nome_JACIARA,0.0
+municipio_nome_ARAPUTANGA,0.0
+municipio_nome_IPIRANGA DO NORTE,0.0
+municipio_nome_RESERVA DO CABAÇAL,0.0
+municipio_nome_INDIAVAÍ,0.0
+municipio_nome_RIO BRANCO,0.0
+municipio_nome_GUIRATINGA,0.0
+municipio_nome_RIBEIRÃOZINHO,0.0
